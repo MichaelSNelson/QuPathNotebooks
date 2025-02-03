@@ -1,0 +1,216 @@
+{
+  "name": "CD45",
+  "gamma": 0.6070866141732283,
+  "invertBackground": false,
+  "channels": [
+    {
+      "name": "Hoechst (C1)",
+      "minDisplay": 899.69104,
+      "maxDisplay": 7456.8706,
+      "color": {
+        "red": 230,
+        "green": 230,
+        "blue": 230
+      },
+      "isShowing": true
+    },
+    {
+      "name": "AF1 (C2)",
+      "minDisplay": 1053.373,
+      "maxDisplay": 7799.4443,
+      "color": {
+        "red": 0,
+        "green": 128,
+        "blue": 0
+      },
+      "isShowing": true
+    },
+    {
+      "name": "CD31 (C3)",
+      "minDisplay": 156.11838,
+      "maxDisplay": 5991.735,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD11c (C4)",
+      "minDisplay": 148.66647,
+      "maxDisplay": 10095.634,
+      "color": {
+        "red": 255,
+        "green": 224,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD68 (C5)",
+      "minDisplay": 63.771484,
+      "maxDisplay": 7876.587,
+      "color": {
+        "red": 0,
+        "green": 224,
+        "blue": 224
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD163 (C6)",
+      "minDisplay": 137.24251,
+      "maxDisplay": 4144.3784,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 224
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD20 (C7)",
+      "minDisplay": 60.2882,
+      "maxDisplay": 3560.4272,
+      "color": {
+        "red": 255,
+        "green": 204,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD4 (C8)",
+      "minDisplay": 186.49738,
+      "maxDisplay": 7556.5693,
+      "color": {
+        "red": 0,
+        "green": 255,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD8a (C9)",
+      "minDisplay": 147.6929,
+      "maxDisplay": 4195.4746,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD45RO (C10)",
+      "minDisplay": 155.49954,
+      "maxDisplay": 1265.1835,
+      "color": {
+        "red": 204,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "PDL1 (C11)",
+      "minDisplay": 779.9275,
+      "maxDisplay": 2610.7634,
+      "color": {
+        "red": 12,
+        "green": 166,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "FoxP3 (C12)",
+      "minDisplay": 117.215866,
+      "maxDisplay": 3338.0352,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "LAG3 (C13)",
+      "minDisplay": 62.662506,
+      "maxDisplay": 467.87766,
+      "color": {
+        "red": 104,
+        "green": 242,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "PD1 (C14)",
+      "minDisplay": 118.29974,
+      "maxDisplay": 684.3064,
+      "color": {
+        "red": 12,
+        "green": 73,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Ki67 (C15)",
+      "minDisplay": 23.803576,
+      "maxDisplay": 2079.6128,
+      "color": {
+        "red": 242,
+        "green": 12,
+        "blue": 43
+      },
+      "isShowing": false
+    },
+    {
+      "name": "CD45 (C16)",
+      "minDisplay": 160.92412,
+      "maxDisplay": 2633.2754,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": true
+    },
+    {
+      "name": "S100a (C17)",
+      "minDisplay": 86.673584,
+      "maxDisplay": 3115.3618,
+      "color": {
+        "red": 43,
+        "green": 12,
+        "blue": 242
+      },
+      "isShowing": true
+    },
+    {
+      "name": "Argo874 (C18)",
+      "minDisplay": 2.1372402,
+      "maxDisplay": 463.23724,
+      "color": {
+        "red": 242,
+        "green": 73,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Argo890 (C19)",
+      "minDisplay": 17.611216,
+      "maxDisplay": 840.21454,
+      "color": {
+        "red": 12,
+        "green": 242,
+        "blue": 104
+      },
+      "isShowing": false
+    }
+  ]
+}

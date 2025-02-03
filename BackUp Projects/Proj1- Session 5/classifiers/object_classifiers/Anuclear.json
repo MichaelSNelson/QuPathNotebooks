@@ -1,0 +1,28 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "ROI: 0.33 µm per pixel: Hoechst: Mean",
+    "pathClassBelow": {
+      "name": "Other",
+      "color": [
+        255,
+        200,
+        0
+      ]
+    },
+    "threshold": 1169.2973702142976
+  },
+  "pathClasses": [
+    {
+      "name": "Other",
+      "color": [
+        255,
+        200,
+        0
+      ]
+    }
+  ],
+  "filter": "DETECTIONS_ALL",
+  "timestamp": 1738266872784
+}

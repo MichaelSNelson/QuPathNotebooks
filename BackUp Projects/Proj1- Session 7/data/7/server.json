@@ -1,0 +1,9 @@
+{
+  "builderType": "uri",
+  "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+  "uri": "file:/F:/Random/random%20images/ometiff_test4.ome.tif",
+  "args": [
+    "--series",
+    "0"
+  ]
+}

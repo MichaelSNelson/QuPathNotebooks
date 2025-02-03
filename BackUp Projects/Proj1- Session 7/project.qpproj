@@ -1,0 +1,393 @@
+{
+  "version": "0.6.0-rc3",
+  "createTimestamp": 1738008882802,
+  "modifyTimestamp": 1738008882802,
+  "uri": "file:/F:/Random/QuPath%20Workshop%202025/Proj1v3/project.qpproj",
+  "lastID": 15,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg1.ome.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "LungImg1.ome.tif",
+          "width": 2790,
+          "height": 2790,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2790,
+              "height": 2790
+            }
+          ],
+          "channels": [
+            {
+              "name": "Hoechst",
+              "color": -1644826
+            },
+            {
+              "name": "AF1",
+              "color": -16744448
+            },
+            {
+              "name": "CD31",
+              "color": -65536
+            },
+            {
+              "name": "CD11c",
+              "color": -8192
+            },
+            {
+              "name": "CD68",
+              "color": -16719648
+            },
+            {
+              "name": "CD163",
+              "color": -65312
+            },
+            {
+              "name": "CD20",
+              "color": -13312
+            },
+            {
+              "name": "CD4",
+              "color": -16711698
+            },
+            {
+              "name": "CD8a",
+              "color": -65298
+            },
+            {
+              "name": "CD45RO",
+              "color": -3342592
+            },
+            {
+              "name": "PDL1",
+              "color": -15948046
+            },
+            {
+              "name": "FoxP3",
+              "color": -256
+            },
+            {
+              "name": "LAG3",
+              "color": -9899508
+            },
+            {
+              "name": "PD1",
+              "color": -15971854
+            },
+            {
+              "name": "Ki67",
+              "color": -914389
+            },
+            {
+              "name": "CD45",
+              "color": -256
+            },
+            {
+              "name": "S100a",
+              "color": -13955854
+            },
+            {
+              "name": "Argo874",
+              "color": -898804
+            },
+            {
+              "name": "Argo890",
+              "color": -15928728
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "entryID": 1,
+      "randomizedName": "53cad666-b085-4cd8-b137-00e3f133afbd",
+      "imageName": "LungImg1.ome.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg2.ome.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "LungImg2.ome.tif",
+          "width": 2623,
+          "height": 2623,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2623,
+              "height": 2623
+            }
+          ],
+          "channels": [
+            {
+              "name": "Hoechst",
+              "color": -1644826
+            },
+            {
+              "name": "AF1",
+              "color": -16744448
+            },
+            {
+              "name": "CD31",
+              "color": -65536
+            },
+            {
+              "name": "CD11c",
+              "color": -8192
+            },
+            {
+              "name": "CD68",
+              "color": -16719648
+            },
+            {
+              "name": "CD163",
+              "color": -65312
+            },
+            {
+              "name": "CD20",
+              "color": -13312
+            },
+            {
+              "name": "CD4",
+              "color": -16711698
+            },
+            {
+              "name": "CD8a",
+              "color": -65298
+            },
+            {
+              "name": "CD45RO",
+              "color": -3342592
+            },
+            {
+              "name": "PDL1",
+              "color": -15948046
+            },
+            {
+              "name": "FoxP3",
+              "color": -256
+            },
+            {
+              "name": "LAG3",
+              "color": -9899508
+            },
+            {
+              "name": "PD1",
+              "color": -15971854
+            },
+            {
+              "name": "Ki67",
+              "color": -914389
+            },
+            {
+              "name": "CD45",
+              "color": -256
+            },
+            {
+              "name": "S100a",
+              "color": -13955854
+            },
+            {
+              "name": "Argo874",
+              "color": -898804
+            },
+            {
+              "name": "Argo890",
+              "color": -15928728
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "entryID": 2,
+      "randomizedName": "32c0a5a2-b5c7-4e91-b579-dc3d593dfba4",
+      "imageName": "LungImg2.ome.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg3.ome.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "LungImg3.ome.tif",
+          "width": 3123,
+          "height": 3123,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 3123,
+              "height": 3123
+            }
+          ],
+          "channels": [
+            {
+              "name": "Hoechst",
+              "color": -1644826
+            },
+            {
+              "name": "AF1",
+              "color": -16744448
+            },
+            {
+              "name": "CD31",
+              "color": -65536
+            },
+            {
+              "name": "CD11c",
+              "color": -8192
+            },
+            {
+              "name": "CD68",
+              "color": -16719648
+            },
+            {
+              "name": "CD163",
+              "color": -65312
+            },
+            {
+              "name": "CD20",
+              "color": -13312
+            },
+            {
+              "name": "CD4",
+              "color": -16711698
+            },
+            {
+              "name": "CD8a",
+              "color": -65298
+            },
+            {
+              "name": "CD45RO",
+              "color": -3342592
+            },
+            {
+              "name": "PDL1",
+              "color": -15948046
+            },
+            {
+              "name": "FoxP3",
+              "color": -256
+            },
+            {
+              "name": "LAG3",
+              "color": -9899508
+            },
+            {
+              "name": "PD1",
+              "color": -15971854
+            },
+            {
+              "name": "Ki67",
+              "color": -914389
+            },
+            {
+              "name": "CD45",
+              "color": -256
+            },
+            {
+              "name": "S100a",
+              "color": -13955854
+            },
+            {
+              "name": "Argo874",
+              "color": -898804
+            },
+            {
+              "name": "Argo890",
+              "color": -15928728
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "entryID": 3,
+      "randomizedName": "437d4fa4-2965-4427-ac67-62ff47eaa0a4",
+      "imageName": "LungImg3.ome.tif",
+      "metadata": {}
+    }
+  ]
+}

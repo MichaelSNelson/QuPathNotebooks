@@ -1,0 +1,216 @@
+{
+  "name": "Myeloid",
+  "gamma": 1.0,
+  "invertBackground": false,
+  "channels": [
+    {
+      "name": "01_Nucleus_Hoechst (C1)",
+      "minDisplay": 1016.1047,
+      "maxDisplay": 15960.299,
+      "color": {
+        "red": 230,
+        "green": 230,
+        "blue": 230
+      },
+      "isShowing": true
+    },
+    {
+      "name": "02_AF1 (C2)",
+      "minDisplay": 806.3879,
+      "maxDisplay": 12491.766,
+      "color": {
+        "red": 0,
+        "green": 128,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "03_CD31_ArgoFluor515 (C3)",
+      "minDisplay": 931.338,
+      "maxDisplay": 10362.074,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "04_CD11c_ArgoFluor555L (C4)",
+      "minDisplay": 78.740585,
+      "maxDisplay": 15771.842,
+      "color": {
+        "red": 255,
+        "green": 224,
+        "blue": 0
+      },
+      "isShowing": true
+    },
+    {
+      "name": "05_CD68_ArgoFluor535 (C5)",
+      "minDisplay": 786.9123,
+      "maxDisplay": 7971.6206,
+      "color": {
+        "red": 0,
+        "green": 224,
+        "blue": 224
+      },
+      "isShowing": true
+    },
+    {
+      "name": "06_CD163_ArgoFluor580L (C6)",
+      "minDisplay": 779.24286,
+      "maxDisplay": 8926.154,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 224
+      },
+      "isShowing": true
+    },
+    {
+      "name": "07_CD20_ArgoFluor660L (C7)",
+      "minDisplay": 32.120567,
+      "maxDisplay": 9542.26,
+      "color": {
+        "red": 255,
+        "green": 204,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "08_CD4_ArgoFluor572 (C8)",
+      "minDisplay": 771.1198,
+      "maxDisplay": 9894.423,
+      "color": {
+        "red": 0,
+        "green": 255,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "09_CD8a_ArgoFluor602 (C9)",
+      "minDisplay": 782.8175,
+      "maxDisplay": 8276.977,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "10_CD45RO_ArgoFluor624 (C10)",
+      "minDisplay": 509.71246,
+      "maxDisplay": 3286.4966,
+      "color": {
+        "red": 204,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "11_PD-L1_ArgoFluor662 (C11)",
+      "minDisplay": 459.03558,
+      "maxDisplay": 3525.3154,
+      "color": {
+        "red": 12,
+        "green": 166,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "12_FOXP3_ArgoFluor686 (C12)",
+      "minDisplay": 447.1629,
+      "maxDisplay": 6040.834,
+      "color": {
+        "red": 242,
+        "green": 12,
+        "blue": 135
+      },
+      "isShowing": false
+    },
+    {
+      "name": "13_LAG3_ArgoFluor730 (C13)",
+      "minDisplay": 335.41357,
+      "maxDisplay": 1463.9015,
+      "color": {
+        "red": 104,
+        "green": 242,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "14_PD-1_ArgoFluor760 (C14)",
+      "minDisplay": 474.2021,
+      "maxDisplay": 2897.5728,
+      "color": {
+        "red": 12,
+        "green": 73,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "15_Ki-67_ArgoFluor784 (C15)",
+      "minDisplay": 346.08173,
+      "maxDisplay": 4463.136,
+      "color": {
+        "red": 242,
+        "green": 12,
+        "blue": 43
+      },
+      "isShowing": false
+    },
+    {
+      "name": "16_CD45_ArgoFluor810 (C16)",
+      "minDisplay": 470.76028,
+      "maxDisplay": 6026.214,
+      "color": {
+        "red": 12,
+        "green": 242,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "17_S100a_ArgoFluor845 (C17)",
+      "minDisplay": 88.072235,
+      "maxDisplay": 966.3151,
+      "color": {
+        "red": 43,
+        "green": 12,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "18_ArgoFluor874 (C18)",
+      "minDisplay": 656.0,
+      "maxDisplay": 656.0,
+      "color": {
+        "red": 242,
+        "green": 73,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "19_ArgoFluor890 (C19)",
+      "minDisplay": 10576.0,
+      "maxDisplay": 10576.0,
+      "color": {
+        "red": 12,
+        "green": 242,
+        "blue": 104
+      },
+      "isShowing": false
+    }
+  ]
+}
