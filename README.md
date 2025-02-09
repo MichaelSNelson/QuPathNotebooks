@@ -26,7 +26,8 @@ See steps 1 and 2 in Session 1 to create your first project! TODO ADD LINK <br>
 
 ### If you have time, watch this excellent introduction by the author of QuPath!
 [![PeteBankheadIntro](https://img.youtube.com/vi/HHo2BIacq8w/0.jpg)](https://youtu.be/HHo2BIacq8w?t=35)
-(https://www.youtube.com/watch?v=HHo2BIacq8w)
+Or skip directly to [the part discussing QuPath](https://youtu.be/HHo2BIacq8w?t=1835)!
+
 
 # See you there and online!
 
