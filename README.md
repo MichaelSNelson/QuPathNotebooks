@@ -12,7 +12,7 @@ Michael Nelson of [LOCI](https://loci.wisc.edu/)
 
 ### Introductory video
 Please watch this short video which introduces some QuPath concepts and has some information on installation issues.<br>
-![youtubevideo](www.youtubevideo.doesn'texistyet)<br>
+![SoonToCreate!](www.youtubevideo.doesn'texistyet)<br>
 
 ### Version of QuPath we will be using: 0.6.0RC3
 Make sure to install this ahead of time, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
