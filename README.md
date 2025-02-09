@@ -72,3 +72,11 @@ Do good things, not bad things!<br>
 [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://pmc.ncbi.nlm.nih.gov/articles/PMC4114110/)<br>
 [Imaging methods are vastly underreported in biomedical research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7434332/)<br>
 [Reproducibility standards for machine learning in the life sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131851/)<br>
+
+# Acknowledgements
+[La Jolla Institute](https://www.lji.org/about-us/)
+Core facility staff
+IT
+Coordinaters
+CZI funding
+[Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)
