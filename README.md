@@ -12,12 +12,12 @@ Michael Nelson of [LOCI](https://loci.wisc.edu/)
 Download your images ahead of time and make sure you can create a project!<br>
 See steps 1 and 2 in the Session 1 link TODO ADD LINK <br>
 [Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
-<img src= "Images/downloadMaterials.PNG" width="300"><br>
+<img src= "Images/downloadMaterials.PNG" width="500"><br>
 
 ### Version of QuPath we will be using: 0.6.0RC3
 Make sure to install this ahead of time, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
 [Get it here!](https://github.com/qupath/qupath/releases)<br>
-<img src= "Images/downloadQuPath.PNG" width="300"><br>
+<img src= "Images/downloadQuPath.PNG" width="500"><br>
 
 ## Additional resources
 
