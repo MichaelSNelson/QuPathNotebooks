@@ -25,7 +25,7 @@ Make sure to install this ahead of time, as some companies/institutes/hospitals 
 See steps 1 and 2 in Session 1 to create your first project! TODO ADD LINK <br>
 
 ### If you have time, watch this excellent introduction by the author of QuPath!
-[![PeteBankheadIntro](https://img.youtube.com/vi/HHo2BIacq8w/0.jpg)](https://youtu.be/HHo2BIacq8w?t=35)
+[![PeteBankheadIntro](https://img.youtube.com/vi/HHo2BIacq8w/0.jpg)](https://youtu.be/HHo2BIacq8w?t=35)<br>
 Or skip directly to [the part discussing QuPath](https://youtu.be/HHo2BIacq8w?t=1835)!
 
 
