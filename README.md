@@ -1,9 +1,9 @@
 # QuPathNotebooks
-Jupyter notebooks for teaching QuPath - Feb 2025, QuPath v0.6.0rc3
-Hosted by [The Microscopy and Histology Core Facilities at La Jolla Institute](https://www.lji.org/research/research-services/microscopy-histology/)
-Sara McArdle
-Zbigniew Mikulski
-Assisted by 
+Jupyter notebooks for teaching QuPath - Feb 2025, QuPath v0.6.0rc3<br>
+Hosted by [The Microscopy and Histology Core Facilities at La Jolla Institute](https://www.lji.org/research/research-services/microscopy-histology/)<br>
+Sara McArdle<br>
+Zbigniew Mikulski<br>
+Assisted by<br> 
 Michael Nelson of [LOCI](https://loci.wisc.edu/)
 ## Join Slack! 
 
@@ -11,8 +11,8 @@ Michael Nelson of [LOCI](https://loci.wisc.edu/)
 ## Prepare for the workshop
 Download your images ahead of time and make sure you can create a project!<br>
 See steps 1 and 2 in the Session 1 link TODO ADD LINK <br>
-[Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)
-<img src= "Images/downloadMaterials.png" width="600"><br>
+[Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
+<img src= "Images/downloadMaterials.PNG"><br>
 
 ### Version of QuPath we will be using: 0.6.0RC3
 Make sure to install this ahead of time, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
