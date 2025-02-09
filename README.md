@@ -10,6 +10,10 @@ Michael Nelson of [LOCI](https://loci.wisc.edu/)
 
 ## Prepare for the workshop
 
+### Introductory video
+Please watch this short video which introduces some QuPath concepts and has some information on installation issues.<br>
+![youtubevideo](www.youtubevideo.doesn'texistyet)<br>
+
 ### Version of QuPath we will be using: 0.6.0RC3
 Make sure to install this ahead of time, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
 [Get it here!](https://github.com/qupath/qupath/releases)<br>
@@ -19,6 +23,9 @@ Make sure to install this ahead of time, as some companies/institutes/hospitals 
 [Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
 <img src= "Images/downloadMaterials.PNG" width="500"><br>
 See steps 1 and 2 in Session 1 to create your first project! TODO ADD LINK <br>
+
+### If you have time, watch this excellent introduction by the author of QuPath!
+![PeteIntro](https://youtu.be/HHo2BIacq8w?t=2)
 
 # See you there and online!
 
