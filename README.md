@@ -16,8 +16,8 @@ See steps 1 and 2 in the Session 1 link TODO ADD LINK <br>
 
 ### Version of QuPath we will be using: 0.6.0RC3
 Make sure to install this ahead of time, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
-[Get it here!](https://github.com/qupath/qupath/releases)
-
+[Get it here!](https://github.com/qupath/qupath/releases)<br>
+<img src= "Images/downloadQuPath.PNG"><br>
 
 ## Additional resources
 
