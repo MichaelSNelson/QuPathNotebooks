@@ -23,7 +23,7 @@ See steps 1 and 2 in Session 1 to create your first project! TODO ADD LINK <br>
 # See you there and online!
 
 ## Additional resources
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d1Y3Bqa3loOWI5bnFhNmoxeHpzOTB5ZjVpZDV1eThpNGI0MXg4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqw0Vpql4sHX9pCl4/giphy.gif
+![knowledge](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d1Y3Bqa3loOWI5bnFhNmoxeHpzOTB5ZjVpZDV1eThpNGI0MXg4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqw0Vpql4sHX9pCl4/giphy.gif)
 ### Ask questions
 https://forum.image.sc/tag/qupath<br>
 
